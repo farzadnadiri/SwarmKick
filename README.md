@@ -42,8 +42,11 @@ Simulation Environment
 SwarmKick supports two simulation environments:
 
 - 2D Simulation: Built using Pygame, offering a lightweight, visual representation of swarm coordination.
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AjPHahJiG8c/0.jpg)](https://www.youtube.com/watch?v=AjPHahJiG8c)
 
 - 3D Simulation: Runs in Webots, providing a realistic robotic simulation environment for testing advanced behaviors.
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rXO9SQf5_1Q/0.jpg)](https://www.youtube.com/watch?v=rXO9SQf5_1Q)
+
 
 ## Results & Performance
 
